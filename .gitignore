@@ -1,0 +1,8 @@
+.env
+
+*env
+
+*.env
+.env.local
+gin-bin
+.DS_Store
